@@ -55,6 +55,6 @@ document.body.style.overflow= "hidden";
         last_position_of_x = current_position_of_x; 
         last_position_of_y = current_position_of_y;
     }
-    function clear(){
+    function clear1(){
         ctx.clearRect(0,0, ctx.canvas.width,ctx.canvas.height);
     }
